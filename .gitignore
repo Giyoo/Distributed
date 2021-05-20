@@ -1,2 +1,5 @@
 # Project exclude paths
 /zookeeper/target/
+.idea
+.gitignore
+.*.iml
