@@ -53,8 +53,8 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.4" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.5.9" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper-jute:3.5.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.5.8" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper-jute:3.5.8" level="project" />
     <orderEntry type="library" name="Maven: org.apache.yetus:audience-annotations:0.5.0" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.63.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.63.Final" level="project" />

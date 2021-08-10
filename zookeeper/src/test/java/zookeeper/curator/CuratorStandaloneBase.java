@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 public abstract  class CuratorStandaloneBase {
 
-    private static final String CONNECT_STR = "192.168.109.200:2181";
+    private static final String CONNECT_STR = "139.224.69.75:2181";
     private static final int sessionTimeoutMs = 60*1000;
     private static final int connectionTimeoutMs = 5000;
     private static CuratorFramework curatorFramework;

@@ -5,7 +5,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>zookeeper</module>
-        <module>zookeeper</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
