@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/consumer-springboot/consumer-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq/consumer-springboot/consumer-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribute.iml" filepath="$PROJECT_DIR$/distribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq-base/rabbitmq-base.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq-base/rabbitmq-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq-consumer-spring-advanced/rabbitmq-consumer-spring-advanced.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq-consumer-spring-advanced/rabbitmq-consumer-spring-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq-parent/rabbitmq-parent.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq-parent/rabbitmq-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq-producer-spring-advanced/rabbitmq-producer-spring-advanced.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq-producer-spring-advanced/rabbitmq-producer-spring-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/spring-rabbitmq-consumers-basic/spring-rabbitmq-consumers-basic.iml" filepath="$PROJECT_DIR$/rabbitmq/spring-rabbitmq-consumers-basic/spring-rabbitmq-consumers-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/spring-rabbitmq-producers-basic/spring-rabbitmq-producers-basic.iml" filepath="$PROJECT_DIR$/rabbitmq/spring-rabbitmq-producers-basic/spring-rabbitmq-producers-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/springboot_rabbitmq/springboot_rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/springboot_rabbitmq/springboot_rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
     </modules>
   </component>
