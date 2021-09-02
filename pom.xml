@@ -6,6 +6,9 @@
     <modules>
         <module>zookeeper</module>
         <module>rabbitmq</module>
+        <module>rocketmq</module>
+        <module>rocketMQ-API</module>
+        <module>rocketMQ-API</module>
     </modules>
 
     <groupId>com.guoyong</groupId>
