@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq/rabbitmq-base/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/rocketMQ-API/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/SC-rocketmq/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
