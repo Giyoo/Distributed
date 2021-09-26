@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-rabbitmq-producers-basic" />
+        <module name="rocketmq" />
         <module name="zookeeper" />
         <module name="consumer-springboot" />
         <module name="rabbitmq-producer-spring-advanced" />
@@ -32,7 +33,7 @@
       <module name="rabbitmq-consumer-spring-advanced" target="1.8" />
       <module name="rabbitmq-parent" target="1.5" />
       <module name="rabbitmq-producer-spring-advanced" target="1.8" />
-      <module name="rocketmq" target="8" />
+      <module name="rocketmq" target="1.5" />
       <module name="rocketMQ-API" target="8" />
       <module name="SC-rocketmq" target="8" />
       <module name="spring-rabbitmq-consumers-basic" target="1.8" />
