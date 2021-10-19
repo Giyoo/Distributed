@@ -6,6 +6,23 @@
     <file url="file://$PROJECT_DIR$/rabbitmq/rabbitmq-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbitmq/springboot_rabbitmq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbitmq/springboot_rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/acl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/broker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/broker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/logappender/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/namesrv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/openmessaging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/remoting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/srvutil/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/tools/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zookeeper/src/main/java" charset="UTF-8" />
   </component>
 </project>
