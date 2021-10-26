@@ -18,6 +18,7 @@
         <module name="SC-rocketmq" />
         <module name="rocketmq-remoting" />
         <module name="rocketmq-example" />
+        <module name="netty" />
         <module name="rocketmq-client" />
         <module name="rocketmq-store" />
         <module name="rocketmq" />
@@ -42,6 +43,7 @@
     <bytecodeTargetLevel>
       <module name="consumer-springboot" target="1.8" />
       <module name="distribute" target="1.5" />
+      <module name="netty" target="8" />
       <module name="producer-springboot" target="1.8" />
       <module name="rabbitmq" target="8" />
       <module name="rabbitmq (1) (com.baiqi)" target="1.5" />

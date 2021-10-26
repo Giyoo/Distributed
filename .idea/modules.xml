@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/SpringBoot-rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/SpringBoot-rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/consumer-springboot/consumer-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq/consumer-springboot/consumer-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribute.iml" filepath="$PROJECT_DIR$/distribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq-base/rabbitmq-base.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq-base/rabbitmq-base.iml" />

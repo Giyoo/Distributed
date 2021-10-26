@@ -8,6 +8,7 @@
         <module>rabbitmq</module>
         <module>rocketmq</module>
         <module>shardingSphere</module>
+        <module>netty</module>
     </modules>
 
     <groupId>com.guoyong</groupId>
