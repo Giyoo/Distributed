@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.baiqi.test.ProducerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.296 s <<< FAILURE! - in com.baiqi.test.ProducerTest
+send(com.baiqi.test.ProducerTest)  Time elapsed: 21.179 s  <<< ERROR!
+org.springframework.amqp.AmqpConnectException: java.net.ConnectException: Connection timed out: connect
+	at com.baiqi.test.ProducerTest.send(ProducerTest.java:23)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at com.baiqi.test.ProducerTest.send(ProducerTest.java:23)
+
