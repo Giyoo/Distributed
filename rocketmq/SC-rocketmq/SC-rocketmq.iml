@@ -127,11 +127,5 @@
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.mapstruct:mapstruct:1.2.0.Final" level="project" />
-    <orderEntry type="module" module-name="rocketmq-client" />
-    <orderEntry type="module" module-name="rocketmq-common" />
-    <orderEntry type="module" module-name="rocketmq-acl" />
-    <orderEntry type="module" module-name="rocketmq-remoting" />
-    <orderEntry type="module" module-name="rocketmq-logging" />
-    <orderEntry type="module" module-name="rocketmq-srvutil" />
   </component>
 </module>
