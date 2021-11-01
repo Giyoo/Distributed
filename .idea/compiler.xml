@@ -23,7 +23,6 @@
         <module name="rocketmq-store" />
         <module name="rocketmq" />
         <module name="zookeeper" />
-        <module name="consumer-springboot" />
         <module name="rabbitmq-producer-spring-advanced" />
         <module name="rocketmq-logappender" />
         <module name="rocketmq-common" />

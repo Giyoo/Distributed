@@ -17,6 +17,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/rabbitmq/consumer-springboot/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-API/pom.xml" />
       </set>
