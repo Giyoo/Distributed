@@ -9,6 +9,7 @@
         <module>rocketmq</module>
         <module>shardingSphere</module>
         <module>netty</module>
+        <module>activiti</module>
     </modules>
 
     <groupId>com.guoyong</groupId>
