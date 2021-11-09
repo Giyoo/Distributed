@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/rocketmq/SC-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

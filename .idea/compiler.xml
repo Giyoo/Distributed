@@ -18,11 +18,13 @@
         <module name="SC-rocketmq" />
         <module name="rocketmq-remoting" />
         <module name="rocketmq-example" />
+        <module name="dubbo-base" />
         <module name="netty" />
         <module name="rocketmq-client" />
         <module name="rocketmq-store" />
         <module name="rocketmq" />
         <module name="zookeeper" />
+        <module name="activiti7" />
         <module name="rabbitmq-producer-spring-advanced" />
         <module name="rocketmq-logappender" />
         <module name="rocketmq-common" />
@@ -40,8 +42,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="activiti7" target="8" />
       <module name="consumer-springboot" target="1.8" />
       <module name="distribute" target="1.5" />
+      <module name="dubbo" target="1.5" />
+      <module name="dubbo-base" target="13" />
       <module name="netty" target="8" />
       <module name="producer-springboot" target="1.8" />
       <module name="rabbitmq" target="8" />

@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rocketmq/SC-rocketmq/SC-rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/SC-rocketmq/SC-rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/SpringBoot-rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/SpringBoot-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti7/activiti7.iml" filepath="$PROJECT_DIR$/activiti7/activiti7.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribute.iml" filepath="$PROJECT_DIR$/distribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo-base/dubbo-base.iml" filepath="$PROJECT_DIR$/dubbo/dubbo-base/dubbo-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq/producer-springboot/producer-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" />
