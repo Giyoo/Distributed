@@ -6,6 +6,7 @@
         <groupId>com.guoyong</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+    <packaging>pom</packaging>
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>rocketMQ-API</module>
