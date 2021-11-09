@@ -25,16 +25,16 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="rocketmq-client" />
-    <orderEntry type="module" module-name="rocketmq-common" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-client:4.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-common:4.7.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
-    <orderEntry type="module" module-name="rocketmq-acl" />
-    <orderEntry type="module" module-name="rocketmq-remoting" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-acl:4.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-remoting:4.7.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.69" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-all:4.0.42.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:1.1.33.Fork26" level="project" />
-    <orderEntry type="module" module-name="rocketmq-logging" />
-    <orderEntry type="module" module-name="rocketmq-srvutil" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-logging:4.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.rocketmq:rocketmq-srvutil:4.7.1" level="project" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.19" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.9" level="project" />
