@@ -13,15 +13,14 @@
         <option value="$PROJECT_DIR$/rocketmq/SC-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq/SpringBoot-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/pom.xml" />
-        <option value="$PROJECT_DIR$/activiti/BasicDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/consumer-springboot/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/rocketMQ-API/pom.xml" />
-        <option value="$PROJECT_DIR$/rocketmq-all-4.7.1-source-release/pom.xml" />
       </set>
     </option>
   </component>

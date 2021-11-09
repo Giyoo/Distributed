@@ -9,7 +9,7 @@
         <module>rocketmq</module>
         <module>shardingSphere</module>
         <module>netty</module>
-        <module>activiti</module>
+        <module>activiti7</module>
     </modules>
 
     <groupId>com.guoyong</groupId>
@@ -26,6 +26,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.5.6</version>
                 <configuration>
                     <excludes>
                         <exclude>

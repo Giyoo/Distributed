@@ -11,10 +11,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.35.Final" level="project" />
-    <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-api:1.0.10" level="project" />
-    <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-core:1.0.10" level="project" />
-    <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-runtime:1.0.10" level="project" />
-    <orderEntry type="library" name="Maven: com.dyuproject.protostuff:protostuff-collectionschema:1.0.10" level="project" />
   </component>
 </module>
